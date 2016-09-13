@@ -1,0 +1,107 @@
+﻿/*-----------------------------------------------------------------------*/
+/*  1. GLOBAL STYLES
+/*
+/*  2. COMPONENTS
+/*
+/*  3. HEADER
+/*
+/*  4. ARTICLE
+/*
+/*  5. FOOTER
+/*-----------------------------------------------------------------------*/
+
+/*---------------------------------------------------------------------*/
+/*  1. GLOBAL STYLES
+/*---------------------------------------------------------------------*/
+body {    
+    font-size: 1.5em;
+}
+
+.center{
+    text-align:center;
+}
+
+h3#error {    
+    color: red;
+    font-size: 1.3em;
+    font-weight: 800;
+    display:none;
+}
+/*---------------------------------------------------------------------*/
+/*  2. COMPONENTS
+/*---------------------------------------------------------------------*/
+span.divider {
+    display: block;
+    background-color: #449d44;
+    width: 60%;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.forty {
+    width: 50% !important;
+    background-color: #31b0d5 !important;
+}
+
+/*---------------------------------------------------------------------*/
+/*  3. HEADER
+/*---------------------------------------------------------------------*/
+header div.container {
+    text-align: center;
+    color: white;
+}
+
+header input {
+    border-radius: 8px;
+    height: 35px;
+    padding-left: 4px;
+    color: black;
+}
+
+header p {
+    margin: 10px 0 10px;
+}
+
+header .container  .row {
+    background-color: #111b0d;
+    border-radius: 8px;
+    padding-bottom: 15px;
+}
+
+/*---------------------------------------------------------------------*/
+/*  4. ARTICLE
+/*---------------------------------------------------------------------*/
+article {
+    margin-bottom:40px;
+}
+
+article div{
+    margin-top:20px;
+}
+
+article .hide_none{
+    display:none;
+}
+
+article #chart_div{
+    margin-left:5%;
+}
+
+article #historyTitle{
+    font-weight: 800;
+}
+
+/*---------------------------------------------------------------------*/
+/*  5. FOOTER
+/*---------------------------------------------------------------------*/
+.navbar.navbar-fixed-bottom {   
+    border-top: 1px solid rgb(128, 128, 128);
+    padding-top:15px; 
+    background-color: #f6fbc8;
+}
+
+.navbar.navbar-fixed-bottom span {
+    margin-left: 20px;
+}

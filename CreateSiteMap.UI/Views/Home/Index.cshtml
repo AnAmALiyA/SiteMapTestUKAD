@@ -1,0 +1,242 @@
+﻿@section Header{
+    <header>
+        <div class="container">
+            <div class="row">
+                <h2>Test task for UKAD</h2>
+                <span class="divider"></span>
+                <div>
+                    <p>Enter URL for create SiteMap and test speed response</p>
+                    <input type="url" id="urlForStart" placeholder="Enter URL">
+                    <button id="startByUrl" type="submit" class="btn btn-success">START</button>
+                </div>
+                <span class="divider forty"></span>
+                <div>
+                    <p>Enter URL for show history test speed response</p>
+                    <input type="url" id="urlForHistory" placeholder="Enter URL">
+                    <button id="getHistoryByUrl" type="submit" class="btn btn-info">START</button>
+                </div>
+            </div>
+        </div>
+    </header>
+}
+
+<section>
+    <article>
+        <h3 id="error" class="hide_none center"></h3>
+        <div id="loader" class="hide_none center"><img src="~/images/loader.gif" alt="Loading" /></div>
+        <div id="chart_div" class="hide_none table-responsive"></div>
+        <div id="table" class="container hide_none">            
+            <div class="row table-responsive">
+                <table class="table table-bordered table-hover table-striped">
+                    <thead>
+                        <tr>
+                            <th class="col-xs-6 col-md-6 col-lg-6">Page Url</th>
+                            <th class="col-xs-2 col-md-2 col-lg-2">Current session response time (ms)</th>
+                            <th class="col-xs-2 col-md-2 col-lg-2">Min response time (ms)</th>
+                            <th class="col-xs-2 col-md-2 col-lg-2">Max response time (ms)</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+        <div id="history" class="container hide_none">
+            <h4 id="historyTitle" class="center"></h4>
+            <div id="historyTable" class="row table-responsive"></div>
+        </div>        
+    </article>
+</section>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+@section scripts {
+<script type="text/javascript">
+    var chart = null;
+    var urlValueStart;
+    var urlValueHistory;
+    var table;
+    var error;
+    var history;
+    var loader;
+        
+        function getResult() {
+            cleanTable();
+            cleanHistory();
+            cleanGraph();
+            cleanError();
+            startLoader();
+            
+            $.ajax({
+                dataType: "json", 
+                type: "POST",
+                url: '@Url.Action("Results", "Home")',
+                data: "url=" + urlValueStart.val(), 
+                success: successStart
+            });            
+        }
+
+    function successStart(response) {
+            if (response.Success) {               
+                var length = response.Pages.length; 
+                var html = "";
+
+                for (var i = 0; i < length; i++) {
+                    html += "<tr>";
+                    html += "<td>" + response.Pages[i].Url + "</td>";
+                    html += "<td>" + response.Pages[i].ResponseTime + "</td>";
+                    html += "<td>" + response.Pages[i].MinResponseTime + "</td>";
+                    html += "<td>" + response.Pages[i].MaxResponseTime + "</td>";
+                    html += "</tr>";
+                }
+
+                drawGraph(response); 
+
+                table.css("display", "block");
+                table.find("tbody").html(html);
+            }
+            else {
+                error.html(response.Error);
+                error.css("display", "block");
+                console.log(error);
+            }
+            stopLoader();
+        }
+        
+        function getHistory() {
+            cleanTable();
+            cleanHistory();
+            cleanGraph();
+            cleanError();
+            startLoader();
+
+            $.ajax({
+                dataType: "json",
+                type: "POST",
+                url: '@Url.Action("History", "Home")',
+                data: "url=" + urlValueHistory.val(),               
+                success: successHistory
+            });
+        }
+    
+    function successHistory(response) {        
+        if (response.Success) {
+            console.log(response);
+                var historyTitle = historyId.find("#historyTitle");
+                var historyTable = historyId.find("#historyTable");
+                var length = response.Pages.length;
+                var html = "";
+
+                historyTitle.html(response.HostUrl);
+                console.log(response.HostUrl);
+                
+                for (var i = 0; i < length; i++) {
+                    html += "<h5>" + response.Pages[i].Url + "</h5>";
+                    html += "<table class='table table-bordered table-hover table-striped'><thead><tr><th class='col-xs-3 col-md-3 col-lg-3'>Date</th><th class='col-xs-3 col-md-3 col-lg-3'>Response time (ms)</th></tr></thead>";
+                    html += "<tbody>";
+                    var lengthHistory = response.Pages[i].History.length;
+                    
+                    for (var j = 0; j < lengthHistory; j++) {
+                        html += "<tr>";
+                        html += "<td>" + response.Pages[i].History[j].Date + "</td>";
+                        html += "<td>" + response.Pages[i].History[j].ResponseTime + "</td>";
+                        html += "</tr>";
+                    }
+                    html += "</tbody>";
+                    html += "</table>";
+                }                
+                
+                historyTable.html(html);
+                historyId.css("display", "block");
+                debugger;
+            }
+            else {
+                error.html(response.Error);
+                error.css("display", "block");
+            }
+            stopLoader();
+        }
+
+        function startLoader() {            
+            loader.css("display", "block");
+        }
+
+        function stopLoader() {
+            var loader = $("#loader");
+            loader.css("display", "none");
+        }
+
+        function cleanTable() {
+            table.css("display", "none");
+            table.find("tbody").empty();
+        }
+
+        function cleanHistory() {            
+            historyId.css("display", "none");
+            historyId.find("#historyTitle").empty();
+            historyId.find("#historyTable").empty();
+        }
+
+        function cleanGraph() {
+            if (chart !== null) {
+                chart.clearChart(); 
+            }
+        }
+
+        function cleanError() {
+            error.empty();
+            error.css("display", "none");
+        }
+    
+        $(document).ready(function () {            
+            urlValueStart = $("#urlForStart");
+            urlValueHistory = $("#urlForHistory");
+            table = $("#table");
+            error = $("#error");
+            historyId = $("#history");
+            loader = $("#loader");
+
+            $("body").on("click", "#startByUrl", getResult);
+            $("body").on("click", "#getHistoryByUrl", getHistory);            
+        });
+
+    google.charts.load('current', { packages: ['corechart', 'bar'] });
+    //google.charts.setOnLoadCallback(drawGraph);   //автоматически запускает метод
+    
+    function drawGraph(response) {        
+        var data = new google.visualization.DataTable();
+        
+        data.addColumn('string', 'Page');
+        data.addColumn('number', 'Time Response (ms)');
+
+        for (var i = 0; i < response.Pages.length; i++) {
+            var row = [response.Pages[i].Url, response.Pages[i].ResponseTime];
+
+            data.addRow(row);
+        }
+
+        var height = response.Pages.length * 25+120;
+
+        var options = {
+            title: 'Pages response time',
+            height: height,
+            chartArea: { width: '50%', height: '75%' },
+            hAxis: {
+                title: 'Milliseconds',
+            },
+            vAxis: {
+                title: 'Pages'
+            },
+            backgroundColor: '#f0f8ff'
+        };
+        
+        if (chart == null) {
+            console.log(chart);
+            chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+        }
+        
+        $("#chart_div").css("display", "block");        
+        chart.draw(data, options);
+
+    }
+</script>
+}
