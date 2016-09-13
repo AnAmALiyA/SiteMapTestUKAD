@@ -1,0 +1,203 @@
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.csprojResolveAssemblyReference.cache
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.exe
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.exe
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\VBCSCompiler.exe
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.dll.config
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.pdb
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.DAL.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\Newtonsoft.Json.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Net.Http.Formatting.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Helpers.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Mvc.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Razor.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Deployment.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Razor.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.DAL.pdb
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\Newtonsoft.Json.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Net.Http.Formatting.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Razor.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Deployment.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Razor.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Helpers.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Mvc.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Razor.resources.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.resources.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Helpers.resources.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Mvc.resources.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\ru\EntityFramework.resources.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.pdb
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.exe.config
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.rsp
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csi.exe
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csi.rsp
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.AppContext.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.exe.config
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.rsp
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\Antlr3.Runtime.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Optimization.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\WebGrease.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\Antlr3.Runtime.pdb
+D:\Education_materials\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Optimization.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.exe
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.exe.config
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.rsp
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csi.exe
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csi.rsp
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.AppContext.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.exe
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.exe.config
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.rsp
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\VBCSCompiler.exe
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.dll.config
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.pdb
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\Antlr3.Runtime.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.DAL.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.SqlServer.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\Newtonsoft.Json.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Net.Http.Formatting.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Helpers.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Mvc.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Optimization.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Razor.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Deployment.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Razor.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\WebGrease.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.DAL.pdb
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\Antlr3.Runtime.pdb
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.SqlServer.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\Newtonsoft.Json.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Net.Http.Formatting.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Optimization.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Razor.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Deployment.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Razor.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Helpers.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Mvc.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Razor.resources.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.resources.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Helpers.resources.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Mvc.resources.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.csprojResolveAssemblyReference.cache
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.pdb
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.exe
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.exe.config
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csc.rsp
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csi.exe
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\csi.rsp
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.AppContext.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.exe
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.exe.config
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\vbc.rsp
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\VBCSCompiler.exe
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.dll.config
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.UI.pdb
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\Antlr3.Runtime.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.DAL.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.SqlServer.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\Newtonsoft.Json.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Net.Http.Formatting.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Helpers.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Mvc.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Optimization.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Razor.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Deployment.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Razor.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\WebGrease.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\CreateSiteMap.DAL.pdb
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\Antlr3.Runtime.pdb
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\EntityFramework.SqlServer.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\Newtonsoft.Json.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Net.Http.Formatting.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Optimization.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Razor.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Deployment.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Webpages.Razor.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Helpers.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\System.Web.Mvc.xml
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Razor.resources.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.resources.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Helpers.resources.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\bin\ru\System.Web.Mvc.resources.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.csprojResolveAssemblyReference.cache
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.dll
+D:\Education_materials\Test Task\Готовые\CreateSiteMap\CreateSiteMap.UI\obj\Debug\CreateSiteMap.UI.pdb
