@@ -1,0 +1,20 @@
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\CreateSiteMap.DAL.dll.config
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\CreateSiteMap.DAL.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\CreateSiteMap.DAL.pdb
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\EntityFramework.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\EntityFramework.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\obj\Debug\CreateSiteMap.DAL.csprojResolveAssemblyReference.cache
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\obj\Debug\CreateSiteMap.DAL.dll
+D:\Education_materials\Test Task\UKAD\CreateSiteMap\CreateSiteMap.DAL\obj\Debug\CreateSiteMap.DAL.pdb
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\CreateSiteMap.DAL.dll.config
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\CreateSiteMap.DAL.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\CreateSiteMap.DAL.pdb
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\EntityFramework.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\EntityFramework.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\obj\Debug\CreateSiteMap.DAL.csprojResolveAssemblyReference.cache
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\obj\Debug\CreateSiteMap.DAL.dll
+D:\Education_materials\CreateSiteMap\CreateSiteMap.DAL\obj\Debug\CreateSiteMap.DAL.pdb
