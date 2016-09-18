@@ -67,7 +67,7 @@ namespace CreateSiteMap.UI.Infrastructure
 
             List<string> pagesCrawledList = new List<string>();
             string resultHttpClient = "";
-            Regex regexLink = new Regex("\\<a\\s*href\\s*=\\s*(?:[\"'](?<url>[^\"']*)[\"']|(?<url>\\S+))");
+            Regex regexLink = new Regex("<a[^>]*? href=\"(?<url>[^\"]+)\"[^>]*?>(?<text>.*?)</a>", RegexOptions.Singleline | RegexOptions.IgnoreCase);
             MatchCollection matches;
             Stopwatch stopwatch = new Stopwatch();
 
