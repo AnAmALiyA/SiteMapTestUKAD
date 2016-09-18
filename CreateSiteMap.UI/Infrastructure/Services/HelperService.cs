@@ -46,11 +46,17 @@ namespace CreateSiteMap.UI.Services
         public string GetHostFromUrl(string url)
         {
             if (string.IsNullOrEmpty(url))
+            {
                 throw new ArgumentException("URL can not be null");
+            }
 
-            try
+           try
             {
                 Uri uri = new Uri(url);
+                if (!uri.Host.StartsWith("www."))
+                {
+                    return uri.Scheme + "://www." + uri.Host;
+                }
                 return uri.Scheme + "://" + uri.Host;
             }
             catch
