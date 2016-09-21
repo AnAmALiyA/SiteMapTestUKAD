@@ -53,10 +53,6 @@ namespace CreateSiteMap.UI.Services
            try
             {
                 Uri uri = new Uri(url);
-                if (!uri.Host.StartsWith("www."))
-                {
-                    return uri.Scheme + "://www." + uri.Host;
-                }
                 return uri.Scheme + "://" + uri.Host;
             }
             catch
